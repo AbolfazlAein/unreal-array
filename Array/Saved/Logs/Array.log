@@ -1713,3 +1713,216 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.06-12.27.44:024][225]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2024.06.06-12.27.46:377][479]BlueprintLog: New page: Compile Minimal_Default
 [2024.06.06-12.27.46:417][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.06.06-12.28.48:075][ 89]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-12.28.48:075][ 89]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-12.29.52:158][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.06.06-12.29.52:172][166]LogSavePackage: Moving '../../../../../uni/GD/unreal-array/Array/Saved/Minimal_Default_Auto45C1C85D743D530F1ADB7628321F8F565.tmp' to '../../../../../uni/GD/unreal-array/Array/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2024.06.06-12.29.52:173][166]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.042
+[2024.06.06-12.29.52:173][166]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2024.06.06-12.34.20:971][565]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-12.34.20:972][565]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D1A19F-453D-53A5-67DE-D6BE09ED740E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d9505d9440dfd6a32e355f9c6151b93e%7Caa25727bcecf471ca98c1ce44a256a76%7Cea350fa7-3994-41f9-987e-243eb7a736f7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x18089ba3eb0 [can pipeline])
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.22.240.246) port 443 (#1))
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 9 (Closing connection 1)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: 0000018149C69600: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.06.06-12.35.08:434][ 84]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D1A19F-453D-53A5-67DE-D6BE09ED740E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d9505d9440dfd6a32e355f9c6151b93e%7Caa25727bcecf471ca98c1ce44a256a76%7Cea350fa7-3994-41f9-987e-243eb7a736f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.06-12.35.35:548][165]LogHttp: Warning: 0000018149C69600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D1A19F-453D-53A5-67DE-D6BE09ED740E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d9505d9440dfd6a32e355f9c6151b93e%7Caa25727bcecf471ca98c1ce44a256a76%7Cea350fa7-3994-41f9-987e-243eb7a736f7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.06-12.35.35:548][165]LogHttp: Warning: 0000018149C69600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.06-12.35.35:548][165]LogHttp: Warning: 0000018149C69600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.06-12.35.35:548][165]LogHttp: Warning: 0000018149C69600: libcurl info message cache 1 (Closing connection 2)
+[2024.06.06-12.35.35:885][166]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D1A19F-453D-53A5-67DE-D6BE09ED740E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d9505d9440dfd6a32e355f9c6151b93e%7Caa25727bcecf471ca98c1ce44a256a76%7Cea350fa7-3994-41f9-987e-243eb7a736f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.06-12.36.46:825][255]LogHttp: Warning: 0000018149B83900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D1A19F-453D-53A5-67DE-D6BE09ED740E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d9505d9440dfd6a32e355f9c6151b93e%7Caa25727bcecf471ca98c1ce44a256a76%7Cea350fa7-3994-41f9-987e-243eb7a736f7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.06-12.36.46:825][255]LogHttp: Warning: 0000018149B83900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.06-12.36.46:825][255]LogHttp: Warning: 0000018149B83900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.06-12.36.46:825][255]LogHttp: Warning: 0000018149B83900: libcurl info message cache 1 (Closing connection 3)
+[2024.06.06-12.36.47:158][256]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D1A19F-453D-53A5-67DE-D6BE09ED740E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d9505d9440dfd6a32e355f9c6151b93e%7Caa25727bcecf471ca98c1ce44a256a76%7Cea350fa7-3994-41f9-987e-243eb7a736f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.06-12.37.35:174][344]LogHttp: Warning: 0000018149B3EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D1A19F-453D-53A5-67DE-D6BE09ED740E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d9505d9440dfd6a32e355f9c6151b93e%7Caa25727bcecf471ca98c1ce44a256a76%7Cea350fa7-3994-41f9-987e-243eb7a736f7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.06.06-12.37.35:174][344]LogHttp: Warning: 0000018149B3EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.06-12.37.35:174][344]LogHttp: Warning: 0000018149B3EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.06-12.37.35:174][344]LogHttp: Warning: 0000018149B3EB00: libcurl info message cache 1 (Closing connection 4)
+[2024.06.06-12.37.35:174][344]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29D1A19F-453D-53A5-67DE-D6BE09ED740E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d9505d9440dfd6a32e355f9c6151b93e%7Caa25727bcecf471ca98c1ce44a256a76%7Cea350fa7-3994-41f9-987e-243eb7a736f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.06-12.42.59:780][113]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-12.42.59:780][113]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-12.43.49:460][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.06.06-12.43.49:476][922]LogSavePackage: Moving '../../../../../uni/GD/unreal-array/Array/Saved/Minimal_Default_Auto54D54B71840604C9BC65105AB7BE1D7C3.tmp' to '../../../../../uni/GD/unreal-array/Array/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2024.06.06-12.43.49:477][922]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.044
+[2024.06.06-12.43.49:477][922]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.06.06-12.44.07:102][990]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-12.44.07:104][990]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Remove Item  to imply a specific type.
+[2024.06.06-12.44.07:104][990]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Item  is undetermined.  Connect something to  Remove Item  to imply a specific type.
+[2024.06.06-12.44.07:104][990]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Add  to imply a specific type.
+[2024.06.06-12.44.07:104][990]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  New Item  is undetermined.  Connect something to  Add  to imply a specific type.
+[2024.06.06-12.44.07:105][990]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Variable  is undetermined.  Connect something to  Add  to imply a specific type.
+[2024.06.06-12.44.07:105][990]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Variable  is undetermined.  Connect something to  Remove Item  to imply a specific type.
+[2024.06.06-12.44.07:105][990]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.06.06-12.44.07:105][990]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.06.06-12.44.07:144][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.06.06-12.44.58:113][ 21]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-12.44.58:119][ 21]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Remove Item  to imply a specific type.
+[2024.06.06-12.44.58:119][ 21]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Item  is undetermined.  Connect something to  Remove Item  to imply a specific type.
+[2024.06.06-12.44.58:119][ 21]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Add  to imply a specific type.
+[2024.06.06-12.44.58:120][ 21]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  New Item  is undetermined.  Connect something to  Add  to imply a specific type.
+[2024.06.06-12.44.58:120][ 21]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Variable  is undetermined.  Connect something to  Add  to imply a specific type.
+[2024.06.06-12.44.58:120][ 21]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The type of  Variable  is undetermined.  Connect something to  Remove Item  to imply a specific type.
+[2024.06.06-12.44.58:120][ 21]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.06.06-12.44.58:121][ 21]LogBlueprint: Error: [AssetLog] A:\uni\GD\unreal-array\Array\Content\StarterContent\Maps\Minimal_Default.umap: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2024.06.06-12.44.58:162][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.06.06-12.47.36:507][952]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-12.47.36:570][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2024.06.06-12.47.55:999][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.06-12.47.56:004][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.06-12.47.56:004][ 49]PIE: New page: PIE session: Minimal_Default (Jun 6, 2024, 8:47:56 PM)
+[2024.06.06-12.47.56:004][ 49]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.06-12.47.56:007][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003450s)
+[2024.06.06-12.47.56:008][ 49]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.06.06-12.47.56:009][ 49]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2024.06.06-12.47.56:009][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004783s)
+[2024.06.06-12.47.56:034][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.06.06-12.47.56:034][ 49]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.06.06-12.47.56:035][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.06-12.47.56:035][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.06-12.47.56:035][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.06-12.47.56:035][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.06-12.47.56:035][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.06-12.47.56:035][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.06-12.47.56:035][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.06-12.47.56:035][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.06-12.47.56:035][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.06-12.47.56:035][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.06-12.47.56:035][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.06-12.47.56:035][ 49]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.06-12.47.56:039][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.06-12.47.56:039][ 49]LogAudioMixer: Display: 1: FrontRight
+[2024.06.06-12.47.56:039][ 49]LogAudioMixer: Display: 2: FrontCenter
+[2024.06.06-12.47.56:039][ 49]LogAudioMixer: Display: 3: LowFrequency
+[2024.06.06-12.47.56:039][ 49]LogAudioMixer: Display: 4: BackLeft
+[2024.06.06-12.47.56:039][ 49]LogAudioMixer: Display: 5: BackRight
+[2024.06.06-12.47.56:039][ 49]LogAudioMixer: Display: 6: SideLeft
+[2024.06.06-12.47.56:039][ 49]LogAudioMixer: Display: 7: SideRight
+[2024.06.06-12.47.56:083][ 49]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.06.06-12.47.56:084][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.06-12.47.56:084][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.06-12.47.56:084][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.06-12.47.56:085][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.06-12.47.56:085][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.06-12.47.56:085][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2024.06.06-12.47.56:085][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.06-12.47.56:086][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.06-12.47.56:086][ 49]LogInit: FAudioDevice initialized.
+[2024.06.06-12.47.56:086][ 49]LogAudio: Display: Audio Device (ID: 9) registered with world 'Minimal_Default'.
+[2024.06.06-12.47.56:117][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.06-12.47.56:117][ 49]LogLoad: Game class is 'GameModeBase'
+[2024.06.06-12.47.56:119][ 49]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.06.06-16.17.56
+[2024.06.06-12.47.56:120][ 49]LogWorld: Bringing up level for play took: 0.000964
+[2024.06.06-12.47.56:120][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2024.06.06-12.47.56:123][ 49]LogBlueprintUserMessages: [Minimal_Default_C_14] 9
+[2024.06.06-12.47.56:123][ 49]LogBlueprintUserMessages: [Minimal_Default_C_14] true
+[2024.06.06-12.47.56:123][ 49]PIE: Server logged in
+[2024.06.06-12.47.56:124][ 49]PIE: Play in editor total start time 0.122 seconds.
+[2024.06.06-12.47.56:161][ 50]LogRenderer: Reallocating scene render targets to support 1032x604 Format 10 NumSamples 1 (Frame:1).
+[2024.06.06-12.48.00:637][497]LogSlate: Window 'Array Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.06.06-12.48.00:651][497]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.06-12.48.00:692][497]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.06.06-12.48.00:692][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.06-12.48.00:701][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.06-12.48.00:705][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.06-12.48.00:731][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.06-12.48.00:731][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.06-12.48.00:733][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.06-12.48.00:748][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2024.06.06-12.48.00:763][498]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.06.06-12.50.57:028][997]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-12.50.57:028][997]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-12.50.59:312][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.06.06-12.50.59:327][216]LogSavePackage: Moving '../../../../../uni/GD/unreal-array/Array/Saved/Minimal_Default81EA56B84FAE9303C5EDCB899CFAD2E4.tmp' to '../../../../../uni/GD/unreal-array/Array/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-12.50.59:332][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../uni/GD/unreal-array/Array/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.06-12.50.59:362][216]LogSavePackage: Moving '../../../../../uni/GD/unreal-array/Array/Saved/Minimal_Default_BuiltData91D366264D49FD1E2845D7951124E8BC.tmp' to '../../../../../uni/GD/unreal-array/Array/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.06-12.50.59:380][216]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.06-12.50.59:380][216]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.06-12.50.59:380][216]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-12.51.00:854][391]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-12.51.00:893][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.06.06-12.51.01:987][508]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.06-12.51.01:991][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.06-12.51.01:991][508]PIE: New page: PIE session: Minimal_Default (Jun 6, 2024, 8:51:01 PM)
+[2024.06.06-12.51.01:991][508]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.06-12.51.01:994][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003673s)
+[2024.06.06-12.51.01:997][508]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.06.06-12.51.01:998][508]LogPlayLevel: PIE: World Init took: (0.002387s)
+[2024.06.06-12.51.01:998][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006247s)
+[2024.06.06-12.51.02:022][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.06.06-12.51.02:022][508]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.06.06-12.51.02:022][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.06-12.51.02:022][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.06-12.51.02:022][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.06-12.51.02:022][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.06-12.51.02:022][508]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.06-12.51.02:022][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.06-12.51.02:022][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.06-12.51.02:022][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.06-12.51.02:023][508]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.06-12.51.02:023][508]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.06-12.51.02:023][508]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.06-12.51.02:023][508]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.06-12.51.02:026][508]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.06-12.51.02:026][508]LogAudioMixer: Display: 1: FrontRight
+[2024.06.06-12.51.02:026][508]LogAudioMixer: Display: 2: FrontCenter
+[2024.06.06-12.51.02:026][508]LogAudioMixer: Display: 3: LowFrequency
+[2024.06.06-12.51.02:026][508]LogAudioMixer: Display: 4: BackLeft
+[2024.06.06-12.51.02:026][508]LogAudioMixer: Display: 5: BackRight
+[2024.06.06-12.51.02:026][508]LogAudioMixer: Display: 6: SideLeft
+[2024.06.06-12.51.02:026][508]LogAudioMixer: Display: 7: SideRight
+[2024.06.06-12.51.02:070][508]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.06.06-12.51.02:070][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.06-12.51.02:070][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.06-12.51.02:070][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.06-12.51.02:071][508]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.06-12.51.02:071][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.06-12.51.02:071][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2024.06.06-12.51.02:072][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.06-12.51.02:072][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.06-12.51.02:072][508]LogInit: FAudioDevice initialized.
+[2024.06.06-12.51.02:072][508]LogAudio: Display: Audio Device (ID: 10) registered with world 'Minimal_Default'.
+[2024.06.06-12.51.02:100][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.06-12.51.02:100][508]LogLoad: Game class is 'GameModeBase'
+[2024.06.06-12.51.02:102][508]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.06.06-16.21.02
+[2024.06.06-12.51.02:103][508]LogWorld: Bringing up level for play took: 0.001351
+[2024.06.06-12.51.02:103][508]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2024.06.06-12.51.02:106][508]LogBlueprintUserMessages: [Minimal_Default_C_15] 9
+[2024.06.06-12.51.02:106][508]LogBlueprintUserMessages: [Minimal_Default_C_15] true
+[2024.06.06-12.51.02:106][508]PIE: Server logged in
+[2024.06.06-12.51.02:107][508]PIE: Play in editor total start time 0.117 seconds.
+[2024.06.06-12.51.02:136][509]LogRenderer: Reallocating scene render targets to support 1032x608 Format 10 NumSamples 1 (Frame:1).
+[2024.06.06-12.51.05:769][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.06-12.51.05:769][935]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.06-12.51.05:769][935]LogSlate: Window 'Array Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.06.06-12.51.05:775][935]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.06.06-12.51.05:775][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.06-12.51.05:782][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.06-12.51.05:786][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.06-12.51.05:811][935]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.06-12.51.05:811][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.06-12.51.05:812][935]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.06-12.51.05:840][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.06.06-12.51.05:852][936]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.06.06-12.51.09:878][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.06.06-12.51.09:891][395]LogSavePackage: Moving '../../../../../uni/GD/unreal-array/Array/Saved/Minimal_DefaultB08A288D46EC0DD958E7A28638CDB27B.tmp' to '../../../../../uni/GD/unreal-array/Array/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-12.51.09:893][395]LogFileHelpers: Saving map 'Minimal_Default' took 0.041
+[2024.06.06-12.51.09:913][395]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-12.51.09:913][395]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-12.51.11:226][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.06.06-12.51.11:240][542]LogSavePackage: Moving '../../../../../uni/GD/unreal-array/Array/Saved/Minimal_Default6352D18447B76BB3A5BE0AAD4E62744D.tmp' to '../../../../../uni/GD/unreal-array/Array/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-12.51.11:244][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../uni/GD/unreal-array/Array/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.06.06-12.51.11:273][542]LogSavePackage: Moving '../../../../../uni/GD/unreal-array/Array/Saved/Minimal_Default_BuiltDataADA0D47148CFEA3D0D9C1EB98112A6DF.tmp' to '../../../../../uni/GD/unreal-array/Array/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.06-12.51.11:289][542]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.06-12.51.11:289][542]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.06-12.51.11:289][542]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
